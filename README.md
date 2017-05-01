@@ -1,10 +1,10 @@
+
 # Ionic-3-Github-Search
 Ionic 3 - Github search app with Github Api
 
 Currently this project is using the latest versions of all: Ionic 3.1.1 and Angular 4
 
-Setup
-
+# **Setup**
 Requirements to use this project:
 
 Node.js (https://nodejs.org/download/)
@@ -19,13 +19,17 @@ Cordova & Ionic Cli
 To install both of them on your system just launch this command:
 
 $ sudo npm install cordova ionic -g
-Install NPM Dependencies
+# Install NPM Dependencies
 
 Once you clone this repository, run this command on your terminal to install all needed dependencies:
 
 $ npm install
 Install cordova plugin Dependencies
 
-After installing the needed dependencies you are done, launch your app with a simple
+##### After installing the needed dependencies you are done, launch your app with a simple
 
 $ ionic serve
+
+build with Paul Halliday udemy course
+https://www.udemy.com/learn-ionic-3-from-scratch/learn/v4/overview
+
